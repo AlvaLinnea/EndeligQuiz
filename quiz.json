@@ -1,0 +1,22 @@
+[
+    {
+      "spørsmål": "Hva er den vanligste fargemodellen for skjermgrafikk",
+      "svar": "RGB"
+    },
+    {
+      "spørsmål": "Det er to hovedtyper for kompresjon av bilder, tapsfri og...",
+      "svar": "destruktiv"
+    },
+    {
+      "spørsmål": "Hvor ofte vi gjør målingene, innefor lydkvalitet, kalles...",
+      "svar": "samplingsfrekvensen"
+    },
+    {
+        "spørsmål": "Hva står PCM for...",
+        "svar": "pulse code modulation"
+    },
+    {
+      "spørsmål": "Hva er videokompresjon basert på?",
+      "svar": "nøkkelbilde"
+  }
+  ]
